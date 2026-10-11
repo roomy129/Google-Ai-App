@@ -1,0 +1,6 @@
+{
+  "name": "Faculty Finder",
+  "description": "Faculty Location Tracking System - Smart Campus Solution for Real-Time Faculty Availability and Location",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
